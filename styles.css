@@ -706,14 +706,11 @@ header {
   justify-content: space-between;
   gap: 10px;
   margin: 0px auto;
-  background-color: blue;
-  overflow: hidden;
 }
 .footer-section ul {
   list-style: none;
   line-height: 35px;
   word-spacing: 3px;
-  background-color: red;
 }
 .bold {
   font-size: 20px;
