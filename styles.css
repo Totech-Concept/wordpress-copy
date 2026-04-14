@@ -233,7 +233,7 @@ header {
   padding: 17px 0px;
   width: 500px;
   height: 80px;
-  background-color: #ffffff;
+  background-color: transparent;
   margin: 20px 0;
 }
 .search-container button {
